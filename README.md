@@ -1,4 +1,4 @@
-# productapp
+# Productapp
 It is web project that use for save product few info.
 like product name,product desc. and product price.
 it is made by using  spring-mvc and hibernate and database-MySql
