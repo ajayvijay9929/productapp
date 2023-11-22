@@ -15,6 +15,6 @@ it is made by using  spring-mvc and hibernate and database-MySql
 ## page for update product
 ![image](https://github.com/ajayvijay9929/productapp/assets/120326151/eee18840-11d6-4f3b-9902-2233be08fbc2)
 
-
+E:\study\Spring\productapp
 
 
