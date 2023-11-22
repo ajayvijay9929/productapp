@@ -3,7 +3,7 @@ This is basic project that use for save product few info.
 like product name,product desc. and product price.
 it is made by using  spring-mvc and hibernate and database-MySql
 
-## this page is display all product
+## this page is displaying all product
 ![image](https://github.com/ajayvijay9929/productapp/assets/120326151/0058b0ad-b68c-43b6-85a2-afedf1f98f84)
 
 ## page for add product 
